@@ -38,7 +38,7 @@ En este repositorio, encontrarás una amplia variedad de recursos relacionados c
 Comienza desde lo básico, comprendiendo qué son los hilos por qué son importantes y cómo se aplican en el contexto de MicroPython en la DualMCU ESP32.
 - [Introduccion](./Docs/introduccion.md) 
 
-#### 1.2  Configuración del Entorno:
+#### 1.2 Configuración del Entorno:
 Aprende a configurar tu entorno de desarrollo, incluyendo la [instalación](https://github.com/UNIT-Electronics/DualMCU-ESP32-MicroPython) de MicroPython en la placa ESP32 y las herramientas necesarias. 
 
 #### 1.3 Creación y Gestión de Hilos: 
