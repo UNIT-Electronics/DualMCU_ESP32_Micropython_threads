@@ -6,7 +6,7 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 
 # Contenido
   
- 1. [Entediendo hilos](./README.md#1-entendiendo-hilos)
+ 1. [Entediendo hilos](./README.md#entediendo-hilos-🥸)
 
     1.1 [Introducción a los Hilos en MicroPython](./README.md#11-introducción-a-los-hilos-en-microPython) 
 
