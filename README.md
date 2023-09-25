@@ -6,9 +6,9 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 
 # Contenido
   
- 1. [Entediendo hilos](./README.md#1-entediendo-hilos-🥸)
+ 1. [Entediendo hilos](./README.md#1-entediendo-hilos)
 
-    1.1 [Introducción a los Hilos en MicroPython](./README.md#11-introducción-a-los-hilos-en-microPython) 
+    1.1 [Introducción a los Hilos en MicroPython](./README.md#11-introducción-a-los-hilos-en-micropython) 
 
     1.2 [Configuración del Entorno](./README.md#12-configuración-del-entorno)
 
@@ -23,7 +23,7 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 
     2.1 [Recursos Adicionales](./README.md#21-recursos-adicionales)
 
-3. [Contribuye y Colabora](./README.md#3-contribuye-y-colabora-😎)
+3. [Contribuye y Colabora](./README.md#3-contribuye-y-colabora)
 
 4. [Licencia](./README.md#4-licencia)
 
@@ -31,7 +31,7 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 5. [Comienza tu Viaje](./README.md#5-comienza-tu-viaje)
 
 6. [Expande tu conocimiento ](./README.md#6-expande-tu-conocimiento)
-## 1. Entediendo hilos 🥸
+## 1. Entediendo hilos
 En este repositorio, encontrarás una amplia variedad de recursos relacionados con el uso de hilos en DualMCU ESP32 con MicroPython, incluyendo:
 
 #### 1.1 Introducción a los Hilos en MicroPython:
@@ -61,8 +61,8 @@ Aprende a optimizar tus programas multihilo y a seguir buenas prácticas de prog
 
 Encuentra enlaces a recursos externos, libros, y otros materiales que te ayudarán a profundizar en este emocionante campo.
 
-## 3. Contribuye y Colabora 😎
-Este repositorio es un proyecto en constante evolución, y tu contribución es bienvenida. Si tienes ejemplos, consejos, o mejoras para compartir, ¡no dudes en colaborar! Juntos podemos construir una comunidad activa de entusiastas de DualMCU ESP32 y MicroPython.
+## 3. Contribuye y Colabora
+Este repositorio es un proyecto en constante evolución, y tu contribución es bienvenida. Si tienes ejemplos, consejos, o mejoras para compartir, ¡no dudes en colaborar! Juntos podemos construir una comunidad activa de entusiastas de DualMCU ESP32 y MicroPython. 😎
 
 ## 4. Licencia
 Este repositorio se encuentra bajo licencia open source para promover el aprendizaje y la colaboración. Te animamos a utilizar, modificar y compartir el contenido aquí presente, siempre respetando los términos de la licencia.
