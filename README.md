@@ -6,7 +6,7 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 
 # Contenido
   
- 1. [Entediendo hilos](./README.md#entediendo-hilos-🥸)
+ 1. [Entediendo hilos](./README.md#1-entediendo-hilos-🥸)
 
     1.1 [Introducción a los Hilos en MicroPython](./README.md#11-introducción-a-los-hilos-en-microPython) 
 
@@ -31,7 +31,7 @@ La combinación de la placa ESP32 y MicroPython ofrece una solución altamente e
 5. [Comienza tu Viaje](./README.md#5-comienza-tu-viaje)
 
 6. [Expande tu conocimiento ](./README.md#6-expande-tu-conocimiento)
-## Entediendo hilos 🥸
+## 1. Entediendo hilos 🥸
 En este repositorio, encontrarás una amplia variedad de recursos relacionados con el uso de hilos en DualMCU ESP32 con MicroPython, incluyendo:
 
 #### 1.1 Introducción a los Hilos en MicroPython:
